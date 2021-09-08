@@ -1,0 +1,20 @@
+Package: ants
+Title: Information on ants
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Graham",
+           family = "French",
+           role = c("aut", "cre"),
+           email = "gcfrench@googlemail.com")
+Description: This package provides information on common ant species in
+    central and northern Europe. This includes images on worker and gynes
+    taken from antweb, summary of identification characters, mating system
+    and nest ecology.
+License: CC0
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Imports: 
+    lifecycle,
+    magrittr
