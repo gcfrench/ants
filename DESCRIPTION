@@ -6,10 +6,7 @@ Authors@R:
            family = "French",
            role = c("aut", "cre"),
            email = "gcfrench@googlemail.com")
-Description: This package provides information on common ant species in
-    central and northern Europe. This includes images on worker and gynes
-    taken from antweb, summary of identification characters, mating system
-    and nest ecology.
+Description: A place for my notes on common central and northern European ants.
 License: CC0
 Encoding: UTF-8
 LazyData: true
