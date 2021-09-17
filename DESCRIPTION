@@ -15,3 +15,5 @@ RoxygenNote: 7.1.1
 Imports: 
     lifecycle,
     magrittr
+URL: https://github.com/gcfrench/ants
+BugReports: https://github.com/gcfrench/ants/issues
